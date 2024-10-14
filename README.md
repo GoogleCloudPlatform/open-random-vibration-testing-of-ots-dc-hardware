@@ -1,5 +1,7 @@
 Welcome, Open Random Vibration Testing of OTS DC Hardware users! This website contains the latest documentation for this open source hardware testing project. Before contributing, please read the CONTRIBUTING.md guideline.
 
+Those of you who are here because of the presentation at 2024 OCP Global Summit (https://www.opencompute.org/summit/global-summit), thank you so much for your interest!  White papers and sample data of will become available here starting February 3rd, 2025.  In the mean time, please reach out to openrandomvibe@ocproject.net to share pain points, stories, methods, past experiences, comments, and suggestions.
+
 **This is not an officially supported Google product**
 
 **What is Random Vibration Testing of OTS DC Components and Hardware**
