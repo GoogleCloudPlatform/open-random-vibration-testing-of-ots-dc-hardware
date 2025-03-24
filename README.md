@@ -4,19 +4,21 @@ Welcome, Open Random Vibration Testing of OTS DC Hardware users! This website co
 
 For those who has been waiting, the first batch of white papers on Google's Random Vibration Testing Methodology is finally here.  Under the "White Paper" section, papers/sample data/plots/photos/videos have been uploaded under specific tracks, which divide the materials in the following ways:
 
-Track 1.  A High Level Overview of Google's Random Vibration Testing Methodology (In Progress)
-          Part 1.  Sine Vibration of A Machine
-          Part 2.  Sine Vibration of A Machine Inside A Rack
-          Part 3.  Random Vibration's Impact on Machine and PCB
-Track 2.  Environmental Conditions (In Progress)
-          Part 1.  An Examination of Random Vibration from Google's Supply Chain
+**Track 1.  A High Level Overview of Google's Random Vibration Testing Methodology (In Progress)**
+Part 1.  Sine Vibration of A Machine
+Part 2.  Sine Vibration of A Machine Inside A Rack
+Part 3.  Random Vibration's Impact on Machine and PCB
+
+**Track 2.  Environmental Conditions (In Progress)**
+Part 1.  An Examination of Random Vibration from Google's Supply Chain
+
 Track 3.  Rack Level Analysis (Planned)
 Track 4.  Machine Level Analysis (Planned)
 Track 5.  Component Level Analysis (Planned)
 
 Moving forward, we will continue to release new materials (white papers and sample data/plots/photos/videos) following a regular release schedule.  The plan is to maintain it on a bi-weekly basis.  If you have questions or specific topic you want covered, please e-mail openrandomvibe@ocproject.net directly and I will be happy to add them to the schedule.  And of course, feedback is always welcomed on how to make this project and these papers more useful.
 
-Bi-Weekly White Paper Regular Release Schedule:
+**Bi-Weekly White Paper Regular Release Schedule:**
 
 April 7th:  Part 4.  Component Level Displacement Measurement and Analysis
 April 21st:  Correlation of Heatsink/ASIC Pressure Measurement with Shock and Vibration
