@@ -2,7 +2,7 @@ Welcome, Open Random Vibration Testing of OTS DC Hardware users! This website co
 
 **March 24th Update**
 
-For those who has been waiting, the first batch of white papers on Google's Random Vibration Testing Methodology is here.  Papers/sample data/diagrams/photos/videos have been uploaded under specific tracks in the "White Paper" section.  Moving forward, we will release new materials on a bi-weekly basis following a regular release schedule.  Please take a moment to familiar yourself with the table of content and the schedule of future releases (also inside "White Paper").  
+For those who has been waiting, the first batch of white papers on Google's Random Vibration Testing Methodology is here.  Papers/sample data/diagrams/photos/videos have been uploaded under specific tracks in the "White Papers" section.  Moving forward, we will release new materials on a bi-weekly basis following a regular release schedule.  Please take a moment to familiar yourself with the table of content and the schedule of future releases (also inside "White Paper").  
 
 If you have questions or requests for specific topics, e-mail openrandomvibe@ocproject.net directly and I will be happy to add them to the release schedule.  Feedback is always welcomed on how to make this project better and more useful to the readers.
 
