@@ -1,55 +1,78 @@
-Welcome, Open Random Vibration Testing of OTS DC Hardware users! This website contains the latest documentation for this open source hardware testing project. Before contributing, please read the CONTRIBUTING.md guideline.
+# Open Random Vibration Testing of Off The Shelf DC Hardware
 
-**March 24th Update**
+*An open initiative to document, share, and advance mechanical testing of off-the-shelf data‑center hardware and the state of the art of random vibration testing.*
 
-For those who has been waiting, the first batch of white papers on Google's Random Vibration Testing Methodology is here.  Papers/sample data/diagrams/photos/videos have been uploaded under specific tracks in the "White Papers" section.  Moving forward, we will release new materials on a bi-weekly basis following a regular release schedule.  Please take a moment to familiar yourself with the table of content and the schedule of future releases (also inside "White Papers").  
+---
 
-If you have questions or requests for specific topics, e-mail openrandomvibe@ocproject.net directly and I will be happy to add them to the release schedule.  Feedback is always welcomed on how to make this project better and more useful to the readers.
+## Table of Contents
 
-**October 2024 Update**
+1. [Project Overview](#project-overview)
+2. [White Papers & Detailed Table of Contents](#white-papers--detailed-table-of-contents)
+3. [Features](#features)
+4. [License](#license)
+5. [Contact Information](#contact-information)
 
-Those of you who are here because of the presentation at 2024 OCP Global Summit (https://www.opencompute.org/summit/global-summit), thank you for your interest!  The full recording of the presentation is now available at the OCP's website at https://www.opencompute.org/events/past-events/2024-ocp-global-summit.  The most up to date slides and abstract are uploaded here under the "2024 OCP Global Summit" folder.  As we mentioned, White papers and sample data of will become available starting February, 2025.  
+---
 
-In the mean time, please reach out to openrandomvibe@ocproject.net to share pain points, stories, methods, past experiences, comments, and suggestions.
+## Project Overview
 
-**This is not an officially supported Google product**
+Random vibration occurs throughout a data‑center hardware lifecycle — during rack assembly/integration, air/road/sea transport, warehouse handling, rack installation, and ongoing operation. **Open Random Vibration Testing of OTS DC Hardware** provides freely available methods, results, datasets, and analysis notes so that anyone can reproduce, validate, or implement state of the art random vibration testing of servers, racks, power units, and associated subsystems.
 
-**What is Random Vibration Testing of OTS DC Components and Hardware**
+> **Goals**
+>
+> - Accelerate improvements in mechanical robustness and sustainable packaging of latest microelectronics and data center hardware.
+> - Reduce qualification cost & time by sharing reproducible test procedures and best practices.
+> - Improve quality and meaningfulness of test results.
+> - Publish real‑world vibration conditions captured from logistics chains.
+> - Publish failure modes and stress limits of common data center hardware and components.
+> - Foster collaboration among suppliers, OEMs, hyperscale operators, test labs, and academia.
 
-Random vibration testing, in the context of data center hardware, evaluates whether the components, subsystem, machines, and fully integrated rack systems used at a data center will withstand vibration induced mechanical stress throughout the data center supply chain.  
-The follow types of vibration are common in the data center supply chain:
+---
 
-1. Truck vibration from local and long range shipment
-2. Plane vibration from world wide shipment
-3. Handling with forklift and pallet jacks at warehouse and loading dock environment
-4. Pushing of racks from loading dock to dc floor
-5. Handling by hand at bench top (assembly, repairs, troubleshooting, etc)
+## White Papers & Detailed Table of Contents
 
-The follow OTS components and hardware examples are commonly used in data centers:
+<details>
+<summary><strong>Click to expand full roadmap</strong></summary>
 
-1. Server racks from Rittal
-2. OTS switches from Arista and Cisco
-3. Rectifiers from Delta
-4. OTS Electronic components
-5. Resistors, Capacitors, Fuses, etc.
-6. Power Supply, Voltage Regulator
-7. Interconnects and cables from Molex
-8. DIMM, SSD, Flash from Samsung
-9. CPUs from Intel and AMD
-10. Heatsinks, Fans
+### 📜 Master Table of Contents & Schedule
+- 📄 [Table of Content and Schedule of Future Release (PDF)](White%20Papers/Table%20of%20Content%20and%20Schedule%20of%20Future%20Release.pdf)
 
-**Goals of the Project**
+### Track 1 – Fundamentals of Rack Vibration
+- [1.0 High‑Level Overview of Populated Rack Vibration](White%20Papers/Track%201/1.0%20-%20High%20Level%20Overview%20of%20Populated%20Rack%20Vibration.pdf)
+- [1.1 Sine Vibration of a Machine](White%20Papers/Track%201/1.1%20-%20Sine%20Vibration%20of%20a%20Machine.pdf)
+- [1.2 Sine Vibration of a Rack](White%20Papers/Track%201/1.2%20-%20Sine%20Vibration%20of%20a%20Rack.pdf)
+- [1.3 Impact of Random Vibration](White%20Papers/Track%201/1.3%20-%20Impact%20of%20Random%20Vibration.pdf)
+- [1.4 Component‑Level Analysis](White%20Papers/Track%201/1.4%20-%20Component%20Level%20Analysis.pdf)
+- [1.5 Additional Measurement Methods for Shock and Vibration](White%20Papers/Track%201/1.5%20-%20Additional%20Measurement%20Methods/1.5%20ADDITIONAL%20MEASUREMENT%20METHODS%20FOR%20SHOCK%20AND%20VIBRATION.pdf)
 
-The goals of this project are to:
+### Track 2 – Field Data & Spectral Characterization
+- **2.1 Examination of Random Vibration Data**  
+  &nbsp;&nbsp;• [PDF](White%20Papers/Track%202/2.1/2.1%20Examination%20of%20Random%20Vibration%20Data.pdf)  
+  &nbsp;&nbsp;• [Data and Plots Folder](White%20Papers/Track%202/2.1/2.1%20-%20Data%20and%20Plots)
 
-1. Open source the mechanical testing of off-the-shelf data center components and hardware, and their results.
-2. Help to reduce the time and cost of mechanical qualification of DC components and hardware for Google.
-3. Make it easier for people to demonstrate the reliability and durability of DC components and hardware well ahead of Google’s product roadmaps and development cycles.
-4. Make it easier for people to test the reliability and durability of DC components and hardware in better and more meaningful ways.
-5. Make it easier for people to share test methods and meaningful results across the whole ecosystem.
-6. Make it easier for Google to collaborate with experts of relevant and adjacent fields and benefit from their core expertises.
-7. Create a community of hardware developers, manufacturers, test labs, and customers who can contribute to and improve the collective understanding of this area of testing, and, ultimately, the durability of DC components and hardware.
-8. Develop a robust framework to evaluate the durability of all DC hardware.  Such framework would then enable:
-9. The ability to optimize packaging for sustainability 
-10. The ability to reuse materials for sustainability
-11. The ability to deploy fully populated racks for sustainability and velocity
+> *More tracks will appear here automatically as they are released every two weeks.*
+
+</details>
+
+---
+
+## Features
+
+- **Comprehensive Documentation** – Comprehensive white papers detailing test setups, profiles (sine sweep, random), and failure criteria; organized in Tracks for fast navigation.
+- **Open Data & Visualizations** – Field‑recorded acceleration time histories (CSV) and shaker‑table profiles, plus example plots such as 3‑D histograms.
+- **Photographs & Diagrams** – High‑resolution images of instrumentation layouts, fixtures, and measurement points.
+- **Living Repository** – Fresh content drops every two weeks; see the schedule PDF above.
+- **Community Collaboration** – Use Issues & Discussions to suggest tests, share data, or improve docs.
+
+---
+
+## License
+
+All content (text, figures, data) is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. You may copy, remix, and redistribute so long as you provide proper attribution. See the [LICENSE](LICENSE) file for full terms.
+
+---
+
+## Contact Information
+
+Have questions, feedback, or contributions? Email **[openrandomvibe@ocproject.net](mailto\:openrandomvibe@ocproject.net)** or open an [issue](https://github.com/GoogleCloudPlatform/open-random-vibration-testing-of-ots-dc-hardware/issues).
+
