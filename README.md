@@ -28,9 +28,9 @@ Random vibration occurs throughout a data‑center hardware lifecycle — during
 
 ![Strain Measurement](assets/figures-and-plots/strain_measurements.png)
 
-![Strain Measurement, Computer Vision](assets/figures-and-plots/strain_measurements_1.png)
+![Strain Measurement, Computer Vision](assets/figures-and-plots/strain_measurement_1.png)
 
-![Strain Measurement, Traditional](assets/figures-and-plots/strain_measurements_2.png)
+![Strain Measurement, Traditional](assets/figures-and-plots/strain_measurement_2.png)
 
 > **Goals**
 >
