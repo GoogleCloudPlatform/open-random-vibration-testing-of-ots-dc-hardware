@@ -18,6 +18,20 @@
 
 Random vibration occurs throughout a data‑center hardware lifecycle — during rack assembly/integration, air/road/sea transport, warehouse handling, rack installation, and ongoing operation. **Open Random Vibration Testing of OTS DC Hardware** provides freely available methods, results, datasets, and analysis notes so that anyone can reproduce, validate, or implement state of the art random vibration testing of servers, racks, power units, and associated subsystems.
 
+## Quick Preview
+
+![Populated Rack Random Vibration Overview](assets/figures and plots/vibration_stack_up.png)
+
+![Machine Vibration](assets/figures and plots/pcb_mode_shape.png)
+
+![Rack Vibration](assets/figures and plots/rack_mode_shape.png)
+
+![Strain Measurement](assets/figures and plots/strain_measurements.png)
+
+![Strain Measurement, Computer Vision](assets/figures and plots/strain_measurements_1.png)
+
+![Strain Measurement, Traditional](assets/figures and plots/strain_measurements_2.png)
+
 > **Goals**
 >
 > - Accelerate improvements in mechanical robustness and sustainable packaging of latest microelectronics and data center hardware.
