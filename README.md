@@ -20,17 +20,17 @@ Random vibration occurs throughout a data‑center hardware lifecycle — during
 
 ## Quick Preview
 
-![Populated Rack Random Vibration Overview](assets/figures and plots/vibration_stack_up.png)
+![Populated Rack Random Vibration Overview](assets/figures-and-plots/vibration_stack_up.png)
 
-![Machine Vibration](assets/figures and plots/pcb_mode_shape.png)
+![Machine Vibration](assets/figures-and-plots/pcb_mode_shape.png)
 
-![Rack Vibration](assets/figures and plots/rack_mode_shape.png)
+![Rack Vibration](assets/figures-and-plots/rack_mode_shape.png)
 
-![Strain Measurement](assets/figures and plots/strain_measurements.png)
+![Strain Measurement](assets/figures-and-plots/strain_measurements.png)
 
-![Strain Measurement, Computer Vision](assets/figures and plots/strain_measurements_1.png)
+![Strain Measurement, Computer Vision](assets/figures-and-plots/strain_measurements_1.png)
 
-![Strain Measurement, Traditional](assets/figures and plots/strain_measurements_2.png)
+![Strain Measurement, Traditional](assets/figures-and-plots/strain_measurements_2.png)
 
 > **Goals**
 >
