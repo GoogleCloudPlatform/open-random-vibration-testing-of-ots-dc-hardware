@@ -18,19 +18,50 @@
 
 Random vibration occurs throughout a data‑center hardware lifecycle — during rack assembly/integration, air/road/sea transport, warehouse handling, rack installation, and ongoing operation. **Open Random Vibration Testing of OTS DC Hardware** provides freely available methods, results, datasets, and analysis notes so that anyone can reproduce, validate, or implement state of the art random vibration testing of servers, racks, power units, and associated subsystems.
 
-## Quick Preview
+## Content Preview
 
-![Populated Rack Random Vibration Overview](assets/figures-and-plots/vibration_stack_up.png)
+<!-- Rack-level random vibration stack-up -->
+<p align="center">
+  <img src="assets/figures-and-plots/vibration_stack_up.png"
+       alt="Populated Rack Random Vibration Overview"
+       width="500">
+</p>
 
-![Machine Vibration](assets/figures-and-plots/pcb_mode_shape.png)
+<!-- Machine-level mode shape -->
+<p align="center">
+  <img src="assets/figures-and-plots/pcb_mode_shape.png"
+       alt="Machine Vibration"
+       width="500">
+</p>
 
-![Rack Vibration](assets/figures-and-plots/rack_mode_shape.png)
+<!-- Rack-level mode shape -->
+<p align="center">
+  <img src="assets/figures-and-plots/rack_mode_shape.png"
+       alt="Rack Vibration"
+       width="500">
+</p>
 
-![Strain Measurement](assets/figures-and-plots/strain_measurements.png)
+<!-- Strain measurement overview -->
+<p align="center">
+  <img src="assets/figures-and-plots/strain_measurements.png"
+       alt="Strain Measurement"
+       width="500">
+</p>
 
-![Strain Measurement, Computer Vision](assets/figures-and-plots/strain_measurement_1.png)
+<!-- Strain via computer-vision DIC -->
+<p align="center">
+  <img src="assets/figures-and-plots/strain_measurement_1.png"
+       alt="Strain Measurement – Computer Vision"
+       width="500">
+</p>
 
-![Strain Measurement, Traditional](assets/figures-and-plots/strain_measurement_2.png)
+<!-- Traditional strain-gauge measurement -->
+<p align="center">
+  <img src="assets/figures-and-plots/strain_measurement_2.png"
+       alt="Strain Measurement – Traditional"
+       width="500">
+</p>
+
 
 > **Goals**
 >
