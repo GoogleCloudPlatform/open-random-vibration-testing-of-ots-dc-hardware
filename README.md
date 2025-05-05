@@ -41,17 +41,10 @@ Random vibration occurs throughout a data‑center hardware lifecycle — during
        width="500">
 </p>
 
-<!-- Strain measurement overview -->
+<!-- Strain via computer-vision DIC -->
 <p align="left">
   <img src="assets/figures-and-plots/Lenovo_strain_measurement.gif"
        alt="Strain Measurement"
-       width="500">
-</p>
-
-<!-- Strain via computer-vision DIC -->
-<p align="left">
-  <img src="assets/figures-and-plots/strain_measurement_2.png"
-       alt="Strain Measurement – Computer Vision"
        width="500">
 </p>
 
