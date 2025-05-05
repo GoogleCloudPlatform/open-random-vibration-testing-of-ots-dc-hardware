@@ -21,43 +21,43 @@ Random vibration occurs throughout a data‑center hardware lifecycle — during
 ## Content Preview
 
 <!-- Rack-level random vibration stack-up -->
-<p align="center">
+<p align="left">
   <img src="assets/figures-and-plots/vibration_stack_up.png"
        alt="Populated Rack Random Vibration Overview"
        width="500">
 </p>
 
 <!-- Machine-level mode shape -->
-<p align="center">
+<p align="left">
   <img src="assets/figures-and-plots/pcb_mode_shape.png"
        alt="Machine Vibration"
        width="500">
 </p>
 
 <!-- Rack-level mode shape -->
-<p align="center">
-  <img src="assets/figures-and-plots/rack_mode_shape.png"
+<p align="left">
+  <img src="assets/figures-and-plots/rack_mode_shape.gif"
        alt="Rack Vibration"
        width="500">
 </p>
 
 <!-- Strain measurement overview -->
-<p align="center">
-  <img src="assets/figures-and-plots/strain_measurements.png"
+<p align="left">
+  <img src="assets/figures-and-plots/Lenovo_strain_measurement.gif"
        alt="Strain Measurement"
        width="500">
 </p>
 
 <!-- Strain via computer-vision DIC -->
-<p align="center">
-  <img src="assets/figures-and-plots/strain_measurement_1.png"
+<p align="left">
+  <img src="assets/figures-and-plots/strain_measurement_2.png"
        alt="Strain Measurement – Computer Vision"
        width="500">
 </p>
 
 <!-- Traditional strain-gauge measurement -->
-<p align="center">
-  <img src="assets/figures-and-plots/strain_measurement_2.png"
+<p align="left">
+  <img src="assets/figures-and-plots/strain_measurement_1.png"
        alt="Strain Measurement – Traditional"
        width="500">
 </p>
