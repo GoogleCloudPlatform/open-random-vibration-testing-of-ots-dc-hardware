@@ -55,6 +55,38 @@ Random vibration occurs throughout a data‑center hardware lifecycle — during
        width="500">
 </p>
 
+<p align="left">
+  <video src="assets/3D-PointCloud-Surface/Sample_3D_PC_30Hz.mp4"
+         width="500"
+         loop
+         muted
+         playsinline
+         controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="left">
+  <video src="assets/3D-PointCloud-Surface/Sample_3D_PC_30Hz_sideview.mp4"
+         width="500"
+         loop
+         muted
+         playsinline
+         controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="left">
+  <video src="assets/3D-PointCloud-Surface/Sample_Unit_30Hz_Sine.mp4"
+         width="500"
+         loop
+         muted
+         playsinline
+         controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 > **Goals**
 >
