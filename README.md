@@ -56,7 +56,7 @@ Random vibration occurs throughout a data‑center hardware lifecycle — during
 </p>
 
 <p align="left">
-  <video src="assets/3D-PointCloud-Surface/Sample_3D_PC_30Hz.mp4"
+  <video src="https://raw.githubusercontent.com/GoogleCloudPlatform/open-random-vibration-testing-of-ots-dc-hardware/main/assets/3D-PointCloud-Surface/Sample_3D_PC_30Hz.mp4"
          width="500"
          loop
          muted
@@ -67,7 +67,7 @@ Random vibration occurs throughout a data‑center hardware lifecycle — during
 </p>
 
 <p align="left">
-  <video src="assets/3D-PointCloud-Surface/Sample_3D_PC_30Hz_sideview.mp4"
+  <video src="https://raw.githubusercontent.com/GoogleCloudPlatform/open-random-vibration-testing-of-ots-dc-hardware/main/assets/3D-PointCloud-Surface/Sample_3D_PC_30Hz_sideview.mp4"
          width="500"
          loop
          muted
@@ -78,7 +78,7 @@ Random vibration occurs throughout a data‑center hardware lifecycle — during
 </p>
 
 <p align="left">
-  <video src="assets/3D-PointCloud-Surface/Sample_Unit_30Hz_Sine.mp4"
+  <video src="https://raw.githubusercontent.com/GoogleCloudPlatform/open-random-vibration-testing-of-ots-dc-hardware/main/assets/3D-PointCloud-Surface/Sample_Unit_30Hz_Sine.mp4"
          width="500"
          loop
          muted
