@@ -24,7 +24,7 @@ Random vibration occurs throughout a data‑center hardware lifecycle — during
 <p align="left">
   <img src="assets/figures-and-plots/vibration_stack_up.png"
        alt="Populated Rack Random Vibration Overview"
-       width="500">
+       width="700">
 </p>
 
 <!-- Machine-level mode shape -->
