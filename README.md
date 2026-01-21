@@ -22,7 +22,7 @@ Random vibration occurs throughout a data‑center hardware lifecycle — during
 
 We've used it to analyze a record breaking 62,000 frames of HD high speed camera footage captured during random vibration testing of a populated rack (https://lnkd.in/gBqxDvJX), to understand the difference between industry standard and real-world vibration conditions. We've used it to analyze the 3D deformation of a workstation when subjected to free fall shock impact inside a rack (https://lnkd.in/gMDSvheJ).
 
-Find out more todayunder the White Papers Section!
+Find out more today under the White Papers Section!
 
 ## Content Preview
 
