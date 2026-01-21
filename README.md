@@ -35,7 +35,7 @@ Find out more today under the White Papers Section!
 
 <!-- Machine-level mode shape -->
 <p align="left">
-  <img src="assets/figures-and-plots/pcb_mode_shape.png"
+  <img src="assets/figures-and-plots/Lenovo_Shock_3D_Data.png"
        alt="Machine Vibration"
        width="500">
 </p>
