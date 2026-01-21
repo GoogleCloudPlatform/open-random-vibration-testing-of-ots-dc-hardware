@@ -18,6 +18,12 @@
 
 Random vibration occurs throughout a data‑center hardware lifecycle — during rack assembly/integration, air/road/sea transport, warehouse handling, rack installation, and ongoing operation. **Open Random Vibration Testing of OTS DC Hardware** provides freely available methods, results, datasets, and analysis notes so that anyone can reproduce, validate, or implement state of the art random vibration testing of servers, racks, power units, and associated subsystems.
 
+*NEWS* We've published our latest white paper, titled "3D DISPLACEMENT DATA OF A MACHINE DURING RACK LEVEL VIBRATION TESTING". In it is everything we know about applying computer vision to random vibration testing of fully populated racks, and how this field can leverage the AI revolution sweeping every corner of our world.
+
+We've used it to analyze a record breaking 62,000 frames of HD high speed camera footage captured during random vibration testing of a populated rack (https://lnkd.in/gBqxDvJX), to understand the difference between industry standard and real-world vibration conditions. We've used it to analyze the 3D deformation of a workstation when subjected to free fall shock impact inside a rack (https://lnkd.in/gMDSvheJ).
+
+Find out more todayunder the White Papers Section!
+
 ## Content Preview
 
 <!-- Rack-level random vibration stack-up -->
