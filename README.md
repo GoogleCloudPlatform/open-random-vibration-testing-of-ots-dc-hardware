@@ -14,15 +14,19 @@
 
 ---
 
-## Project Overview
+## *NEWS*
 
-Random vibration occurs throughout a data‑center hardware lifecycle — during rack assembly/integration, air/road/sea transport, warehouse handling, rack installation, and ongoing operation. **Open Random Vibration Testing of OTS DC Hardware** provides freely available methods, results, datasets, and analysis notes so that anyone can reproduce, validate, or implement state of the art random vibration testing of servers, racks, power units, and associated subsystems.
-
-*NEWS* -- We've published our latest white paper, titled "3D DISPLACEMENT DATA OF A MACHINE DURING RACK LEVEL VIBRATION TESTING". In it is everything we know about applying computer vision to random vibration testing of fully populated racks, and how this field can leverage the AI revolution sweeping every corner of our world.
+We've published our latest white paper 3.1, titled "3D DISPLACEMENT DATA OF A MACHINE DURING RACK LEVEL VIBRATION TESTING". In it is everything we know about applying computer vision to random vibration testing of fully populated racks, and how this field can leverage the AI revolution sweeping every corner of our world.
 
 We've used it to analyze a record breaking 62,000 frames of HD high speed camera footage captured during random vibration testing of a populated rack (https://lnkd.in/gBqxDvJX), to understand the difference between industry standard and real-world vibration conditions. We've used it to analyze the 3D deformation of a workstation when subjected to free fall shock impact inside a rack (https://lnkd.in/gMDSvheJ).
 
-Find out more today under the White Papers Section!
+Starting 2026, we are going to focus our effort in sharing real world test data, using actual off-the-shelf data center hardware.  We will look at machines, components, power, liquid cooling, interconnects, chips, memory, storage, and what everyone is paying attention to - integrated AI system!
+
+So stay tuned, and look out for new papers under the White Papers Section!
+
+## Project Overview
+
+Random vibration occurs throughout a data‑center hardware lifecycle — during rack assembly/integration, air/road/sea transport, warehouse handling, rack installation, and ongoing operation. **Open Random Vibration Testing of OTS DC Hardware** provides freely available methods, results, datasets, and analysis notes so that anyone can reproduce, validate, or implement state of the art random vibration testing of servers, racks, power units, and associated subsystems.
 
 ## Content Preview
 
@@ -122,11 +126,15 @@ Find out more today under the White Papers Section!
 - [1.5 Additional Measurement Methods for Shock and Vibration](White%20Papers/Track%201/1.5%20-%20Additional%20Measurement%20Methods/1.5%20ADDITIONAL%20MEASUREMENT%20METHODS%20FOR%20SHOCK%20AND%20VIBRATION.pdf)
 
 ### Track 2 – Field Data & Spectral Characterization
-- **2.1 Examination of Random Vibration Data**  
-  &nbsp;&nbsp;• [PDF](White%20Papers/Track%202/2.1/2.1%20Examination%20of%20Random%20Vibration%20Data.pdf)  
-  &nbsp;&nbsp;• [Data and Plots Folder](White%20Papers/Track%202/2.1/2.1%20-%20Data%20and%20Plots)
+- [2.1 Examination of Random Vibration Data](White%20Papers/Track%202/2.1/2.1%20Examination%20of%20Random%20Vibration%20Data.pdf)
+- [2.2 Extracting More Info from Field Data](White%20Papers/Track%202/2.2/2.2%20Extracting%20More%20Info%20from%20field%20data.pdf)
 
-> *More tracks will appear here automatically as they are released every two weeks.*
+### Track 3 – Real World Case Studies!
+- **3.1 Examination of Random Vibration Data**  
+  &nbsp;&nbsp;• [PDF](White%20Papers/Track%203/3.1)  
+  &nbsp;&nbsp;• [Data and Plots Folder](White%20Papers/Track%203/3.1/3.1%20-%20Data%20and%20Plots)
+
+> *More tracks will appear here as new papers get released*
 
 </details>
 
