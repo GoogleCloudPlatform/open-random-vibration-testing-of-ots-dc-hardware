@@ -16,11 +16,19 @@
 
 ## *NEWS*
 
+<!-- Machine-level mode shape -->
+<p align="left">
+  <img src="assets/figures-and-plots/Lenovo_Shock_3D_Data.png"
+       alt="Machine Shock"
+       width="500">
+</p>
+
+
 We've published our latest white paper 3.1, titled "3D DISPLACEMENT DATA OF A MACHINE DURING RACK LEVEL VIBRATION TESTING". In it is everything we know about applying computer vision to random vibration testing of fully populated racks, and how this field can leverage the AI revolution sweeping every corner of our world.
 
 We've used it to analyze a record breaking 62,000 frames of HD high speed camera footage captured during random vibration testing of a populated rack (https://lnkd.in/gBqxDvJX), to understand the difference between industry standard and real-world vibration conditions. We've used it to analyze the 3D deformation of a workstation when subjected to free fall shock impact inside a rack (https://lnkd.in/gMDSvheJ).
 
-Starting 2026, we are going to focus our effort in sharing real world test data, using actual off-the-shelf data center hardware.  We will look at machines, components, power, liquid cooling, interconnects, chips, memory, storage, and what everyone is paying attention to - integrated AI system!
+Starting 2026, we will focus our effort in sharing real world test data with actual off-the-shelf data center hardware.  We will look at machines, components, power, liquid cooling, interconnects, chips, memory, storage, and what everyone is paying attention to - integrated AI system!
 
 So stay tuned, and look out for new papers under the White Papers Section!
 
@@ -37,10 +45,10 @@ Random vibration occurs throughout a data‑center hardware lifecycle — during
        width="700">
 </p>
 
-<!-- Machine-level mode shape -->
+<!-- Field Vibration Data -->
 <p align="left">
-  <img src="assets/figures-and-plots/Lenovo_Shock_3D_Data.png"
-       alt="Machine Vibration"
+  <img src="assets/figures-and-plots/field_vibration_data.png"
+       alt="Field Vibration Data"
        width="500">
 </p>
 
