@@ -138,7 +138,7 @@ Random vibration occurs throughout a data‑center hardware lifecycle — during
 - [2.2 Extracting More Info from Field Data](White%20Papers/Track%202/2.2/2.2%20Extracting%20More%20Info%20from%20field%20data.pdf)
 
 ### Track 3 – Real World Case Studies!
-- **3.1 Examination of Random Vibration Data**  
+- **3.1 3D Displacement Data During Rack Level Testing**  
   &nbsp;&nbsp;• [PDF](White%20Papers/Track%203/3.1)  
   &nbsp;&nbsp;• [Data and Plots Folder](White%20Papers/Track%203/3.1/3.1%20-%20Data%20and%20Plots)
 
